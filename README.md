@@ -92,7 +92,7 @@ Concepts:      CNN, RNN, LSTM, Transformers, LLMs, DSA, OS, DBMS
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Abnav&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
-<!--> 🔧 [Set up WakaTime here](https://wakatime.com) to show real-time tracked coding stats! -->
+<!-- 🔧 [Set up WakaTime here](https://wakatime.com) to show real-time tracked coding stats! -->
 
 ---
 
