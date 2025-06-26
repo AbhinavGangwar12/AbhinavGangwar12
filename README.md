@@ -63,11 +63,12 @@ Concepts:      CNN, RNN, LSTM, Transformers, LLMs, DSA, OS, DBMS
   <br><br>
 
   <!-- GitHub Streak -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=AbhinavGangwar12&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=AbhinavGangwar12&theme=default&hide_border=true">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=AbhinavGangwar12&hide_border=true">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AbhinavGangwar12&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AbhinavGangwar12&theme=default&hide_border=true">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=AbhinavGangwar12&hide_border=true">
+</picture>
+
 
 </div>
 
