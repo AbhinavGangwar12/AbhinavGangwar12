@@ -52,17 +52,34 @@ Concepts:      CNN, RNN, LSTM, Transformers, LLMs, DSA, OS, DBMS
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Dark Mode -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhinavGangwar12&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight#gh-dark-mode-only" />
-  <!-- Light Mode -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhinavGangwar12&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default#gh-light-mode-only" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbhinavGangwar12&theme=tokyonight&hide_border=true" />
+
+  <!-- GitHub Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AbhinavGangwar12&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AbhinavGangwar12&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default">
+    <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AbhinavGangwar12&show_icons=true&count_private=true&include_all_commits=true&hide_border=true">
+  </picture>
+
+  <br><br>
+
+  <!-- GitHub Streak -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=AbhinavGangwar12&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=AbhinavGangwar12&theme=default&hide_border=true">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=AbhinavGangwar12&hide_border=true">
+  </picture>
+
 </div>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavGangwar12&layout=compact&hide_border=true&langs_count=6&theme=tokyonight" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavGangwar12&layout=compact&hide_border=true&langs_count=6&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavGangwar12&layout=compact&hide_border=true&langs_count=6&theme=default">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavGangwar12&layout=compact&hide_border=true&langs_count=6">
+  </picture>
 </p>
+
 
 ---
 
