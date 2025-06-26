@@ -1,4 +1,3 @@
-```markdown
 <!-- Typing Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7B267&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I%E2%80%99m+Abhinav+Gangwar;CS+Student+%7C+ML+Enthusiast;Learning+Deep+Tech%2C+Solving+Real+Problems..." />
@@ -24,8 +23,6 @@ Frameworks:    TensorFlow, Keras, Flask, ComfyUI
 Tools:         Git, GitHub, Docker
 Concepts:      CNN, RNN, LSTM, Transformers, LLMs, DSA, OS, DBMS
 ```
-
----
 
 ## 📂 Featured Projects
 
