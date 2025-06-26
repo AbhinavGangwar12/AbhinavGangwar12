@@ -70,7 +70,7 @@ Concepts:      CNN, RNN, LSTM, Transformers, LLMs, DSA, OS, DBMS
 
 <!-- Replace 'your_wakatime_username' with your actual username -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Abnav&layout=compact&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Abnav&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 > 🔧 [Set up WakaTime here](https://wakatime.com) to show real-time tracked coding stats!
