@@ -2,9 +2,9 @@
 <h3 align="center">A curious soul building machines that learn</h3>
 
 <p align="center">
-  <em>“Crafting logic in silence, <br>
-  while the code speaks aloud — <br>
-  I build the future, line by line, <br>
+  <em>“Crafting logic in silence,<br>
+  while the code speaks aloud —<br>
+  I build the future, line by line,<br>
   in the realm where thoughts are proud.”</em>
 </p>
 
@@ -21,28 +21,24 @@
 
 ### 🛠️ Tech Stack & Tools
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
-![scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![Seaborn](https://img.shields.io/badge/-Seaborn-2E4053?style=flat-square)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib)
+**Languages & Fundamentals**  
+`C++` • `C` • `Python` • `Java` • `MySQL` • `DSA` • `DBMS` • `OS`
+
+**Libraries & Frameworks**  
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `TensorFlow` • `Keras` • `scikit-learn`  
+`OpenCV` • `Flask` • `ComfyUI`
+
+**Domains & Concepts**  
+`Machine Learning` • `Deep Learning` • `CNN` • `RNN` • `LSTM` • `NLP` • `LLM`
+
+**Tools**  
+`Git` • `GitHub` • `Docker`
 
 ---
 
 ### 📌 Featured Projects
 
-> 🚧 **Coming Soon** – stay tuned for some cool builds and experiments in ML, NLP, and AI.
+🚧 **Coming Soon** – stay tuned for some cool builds and experiments in ML, NLP, and AI.
 
 ---
 
@@ -50,8 +46,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhinavgangwar&show_icons=true&theme=radical" alt="Abhinav's GitHub Stats" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavgangwar&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgangwar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
