@@ -53,15 +53,15 @@ Concepts:      CNN, RNN, LSTM, Transformers, LLMs, DSA, OS, DBMS
 
 <div align="center">
   <!-- Dark Mode -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavgangwar&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight#gh-dark-mode-only" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhinavGangwar12&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight#gh-dark-mode-only" />
   <!-- Light Mode -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavgangwar&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default#gh-light-mode-only" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhinavGangwar12&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default#gh-light-mode-only" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhinavgangwar&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbhinavGangwar12&theme=tokyonight&hide_border=true" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgangwar&layout=compact&hide_border=true&langs_count=6&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavGangwar12&layout=compact&hide_border=true&langs_count=6&theme=tokyonight" />
 </p>
 
 ---
