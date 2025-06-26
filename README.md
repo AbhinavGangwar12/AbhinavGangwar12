@@ -127,6 +127,6 @@ Concepts:      CNN, RNN, LSTM, Transformers, LLMs, DSA, OS, DBMS
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhinavgangwar&label=Profile+Views&color=blueviolet&style=flat" alt="abhinavgangwar" />
+  <img src="https://komarev.com/ghpvc/?username=AbhinavGangwar12&label=Profile+Views&color=blueviolet&style=flat" alt="AbhinavGangwar12" />
 </p>
 ```
