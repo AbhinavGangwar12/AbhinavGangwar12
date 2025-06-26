@@ -43,7 +43,7 @@ Concepts:      CNN, RNN, LSTM, Transformers, LLMs, DSA, OS, DBMS
 - [AI For Medicine – DeepLearning.AI](#)
 
 🎓 **Profiles**  
-- [Google Scholar](https://scholar.google.com/schhp?hl=en)  
+- [Orchid](https://orcid.org/0009-0002-6591-5474)  
 - [Kaggle](https://www.kaggle.com/abhinerdy)  
 - [Codolio Portfolio](https://codolio.com/profile/nav_12)
 
