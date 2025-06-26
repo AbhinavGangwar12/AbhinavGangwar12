@@ -43,7 +43,7 @@ Concepts:      CNN, RNN, LSTM, Transformers, LLMs, DSA, OS, DBMS
 - [AI For Medicine – DeepLearning.AI](#)
 
 🎓 **Profiles**  
-- [Google Scholar](#)  
+- [Google Scholar](https://scholar.google.com/schhp?hl=en)  
 - [Kaggle](https://www.kaggle.com/abhinerdy)  
 - [Codolio Portfolio](https://codolio.com/profile/nav_12)
 
@@ -90,7 +90,7 @@ Concepts:      CNN, RNN, LSTM, Transformers, LLMs, DSA, OS, DBMS
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Abnav&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
-> 🔧 [Set up WakaTime here](https://wakatime.com) to show real-time tracked coding stats!
+<!--> 🔧 [Set up WakaTime here](https://wakatime.com) to show real-time tracked coding stats! -->
 
 ---
 
