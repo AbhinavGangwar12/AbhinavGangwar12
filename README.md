@@ -66,7 +66,8 @@ Concepts:      CNN, RNN, LSTM, Transformers, LLMs, DSA, OS, DBMS
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AbhinavGangwar12&theme=tokyonight&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AbhinavGangwar12&theme=default&hide_border=true">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=AbhinavGangwar12&hide_border=true">
+  <img alt="GitHub Streak (may load slowly)" src="https://streak-stats.demolab.com?user=AbhinavGangwar12&hide_border=true">
+
 </picture>
 
 
