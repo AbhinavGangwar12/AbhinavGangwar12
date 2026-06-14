@@ -13,6 +13,15 @@
 💡 Philosophy: _Learn deeply. Build responsibly. Improve endlessly._
 
 ---
+## 🚀 Current Focus
+
+- Building Production AI Systems with LangGraph
+- Retrieval-Augmented Generation (RAG)
+- LLM Fine-Tuning (LoRA / PEFT)
+- FastAPI & Backend Engineering
+- Kubernetes & Cloud Deployments
+
+---
 
 ## 🧰 Tech Stack
 
@@ -26,7 +35,54 @@ Languages:       Python, C++, C, JavaScript
 
 ## 📂 Featured Projects
 
-🚧 *Coming Soon* — Clean and meaningful ML/NLP projects that solve real-world problems.
+### 🔍 Multi-Agent PR Code Review System
+
+**LangGraph • FastAPI • Groq • PostgreSQL • GitHub Apps**
+
+Production-ready GitHub App that orchestrates multiple AI review agents for security, performance, style, and test coverage analysis.
+
+**Highlights**
+
+* Parallel multi-agent architecture using LangGraph
+* Human-in-the-loop approval workflow
+* PostgreSQL-backed checkpoint persistence
+* FastAPI backend with Groq-hosted Llama 3.3
+* Automated pull request review and feedback generation
+
+🔗 Repository: [https://github.com/AbhinavGangwar12/pr-review-agent-tom]
+
+---
+
+### 🌾 Soil Data Analytics AI – Agro-Pastoral Rover
+
+**XGBoost • Random Forest • Edge AI • Arduino**
+
+Edge AI system for real-time crop-state classification using environmental sensor data.
+
+**Highlights**
+
+* Ensemble learning with XGBoost and Random Forests
+* Real-time inference on Arduino-class hardware
+* Multi-sensor telemetry processing
+* Probability-based crop state prediction dashboard
+
+---
+
+### 🧬 Medical Chatbot – LoRA Fine-Tuned Mistral-7B
+
+**PyTorch • PEFT • Hugging Face • LoRA**
+
+Domain-adapted medical language model fine-tuned using parameter-efficient training.
+
+**Highlights**
+
+* LoRA fine-tuning on medical QA datasets
+* Custom adapter training and merging
+* Benchmark evaluation with ROUGE metrics
+* Published model and inference workflow
+
+🔗 Notebook: [https://www.kaggle.com/code/abhinerdy/mark-bot-1]
+
 
 ---
 
