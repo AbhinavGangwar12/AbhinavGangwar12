@@ -17,11 +17,11 @@
 ## 🧰 Tech Stack
 
 ```text
-Languages:     C++, Python, Java, MySQL, C
-Libraries:     NumPy, Pandas, OpenCV, scikit-learn, Seaborn, Matplotlib
-Frameworks:    TensorFlow, Keras, Flask, ComfyUI
-Tools:         Git, GitHub, Docker
-Concepts:      CNN, RNN, LSTM, Transformers, LLMs, DSA, OS, DBMS
+ML / DL:         PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers, OpenCV, XGBoost, Numpy, Pandas
+LLM & GenAI:     LangGraph, LangChain, LoRA Fine-tuning, RAG Pipelines, FAISS, BM25, Groq, Ollama, PEFT
+Infra & MLOps:   Kubernetes (EKS, Minikube), Terraform, Docker, Ansible, Helm, Nagios, AWS
+Backend & Data:  FastAPI, PostgreSQL, SQLAlchemy 2.0, CI/CD, SQL
+Languages:       Python, C++, C, JavaScript
 ```
 
 ## 📂 Featured Projects
