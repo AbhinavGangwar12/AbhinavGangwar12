@@ -175,14 +175,16 @@ kinematics for robust, efficient sign generation. Research paper in progress.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AbhinavGangwar12&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=great-gatsby"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavGangwar12&layout=compact&hide_border=true&langs_count=6&theme=great-gatsby"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AbhinavGangwar12&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=2E8B57&text_color=C0C0C0&border_color=1B4332"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavGangwar12&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117&title_color=D4AF37&text_color=C0C0C0&border_color=1B4332"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=AbhinavGangwar12&theme=highcontrast&hide_border=true&background=0D1117&ring=D4AF37&fire=2E8B57&currStreakLabel=D4AF37"/>
+<img src="https://streak-stats.demolab.com?user=AbhinavGangwar12&hide_border=true&background=0D1117&ring=D4AF37&fire=2E8B57&currStreakLabel=D4AF37&sideLabels=C0C0C0&currStreakNum=D4AF37&sideNums=C0C0C0&dates=6b6b6b&stroke=1B4332"/>
 
 </div>
+
+<sub>⚠️ These cards are served by third-party Vercel-hosted APIs (`github-readme-stats`, `streak-stats`) that are best-effort and occasionally rate-limited/down. If a card doesn't render, it's usually transient — refreshing the page or waiting a few minutes typically fixes it. For guaranteed uptime, consider self-hosting via the <a href="https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own">deploy-your-own-instance</a> guide or the <a href="https://github.com/marketplace/actions/github-readme-stats-action">GitHub Action</a> version, which bakes a static SVG into your repo instead of hitting a live API on every profile view.</sub>
 
 ---
 
