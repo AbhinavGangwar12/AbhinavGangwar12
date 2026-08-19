@@ -1,0 +1,48 @@
+# ============================================================
+#  Setup instructions:
+#  1. In your PROFILE repo (must be named exactly "AbhinavGangwar12",
+#     i.e. the repo at github.com/AbhinavGangwar12/AbhinavGangwar12),
+#     create the path:  .github/workflows/snake-workflow.yml
+#  2. Paste this whole file in.
+#  3. Commit it, then go to the "Actions" tab → "generate animation"
+#     workflow → "Run workflow" to trigger it manually the first time.
+#  4. It will then re-run automatically every day via the cron schedule,
+#     keeping the animation in sync with your latest contributions.
+#  5. The generated SVGs are pushed to an "output" branch and served
+#     from raw.githubusercontent.com — no third-party API involved.
+# ============================================================
+
+name: generate animation
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # once a day
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: generate the Latverian snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: AbhinavGangwar12
+          outputs: |
+            dist/latveria-snake.svg?color_snake=%23D4AF37&color_dots=%23161B22,%231B4332,%232E8B57,%2340A868,%23D4AF37
+            dist/latveria-snake-dark.svg?color_snake=%23D4AF37&color_dots=%230D1117,%231B4332,%232E8B57,%2340A868,%23D4AF37
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: push the generated files to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
