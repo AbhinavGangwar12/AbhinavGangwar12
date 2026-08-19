@@ -171,20 +171,19 @@ kinematics for robust, efficient sign generation. Research paper in progress.
 
 ---
 
-## 📜 Latverian Statistics
+## 🐍 The Serpent's Ledger
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AbhinavGangwar12&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=2E8B57&text_color=C0C0C0&border_color=1B4332"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavGangwar12&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117&title_color=D4AF37&text_color=C0C0C0&border_color=1B4332"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=AbhinavGangwar12&hide_border=true&background=0D1117&ring=D4AF37&fire=2E8B57&currStreakLabel=D4AF37&sideLabels=C0C0C0&currStreakNum=D4AF37&sideNums=C0C0C0&dates=6b6b6b&stroke=1B4332"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhinavGangwar12/AbhinavGangwar12/output/dist/latveria-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhinavGangwar12/AbhinavGangwar12/output/dist/latveria-snake.svg" />
+  <img alt="A gold serpent devouring Abhinav's contribution grid" src="https://raw.githubusercontent.com/AbhinavGangwar12/AbhinavGangwar12/output/dist/latveria-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
-<sub>⚠️ These cards are served by third-party Vercel-hosted APIs (`github-readme-stats`, `streak-stats`) that are best-effort and occasionally rate-limited/down. If a card doesn't render, it's usually transient — refreshing the page or waiting a few minutes typically fixes it. For guaranteed uptime, consider self-hosting via the <a href="https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own">deploy-your-own-instance</a> guide or the <a href="https://github.com/marketplace/actions/github-readme-stats-action">GitHub Action</a> version, which bakes a static SVG into your repo instead of hitting a live API on every profile view.</sub>
+<sub>⚙️ One-time setup needed — add <code>snake-workflow.yml</code> (provided alongside this file) to <code>.github/workflows/</code> in your <b>AbhinavGangwar12/AbhinavGangwar12</b> profile repo, run it once from the Actions tab, and this animation is generated and served entirely from <code>raw.githubusercontent.com</code> — GitHub's own domain, not a third-party Vercel API — so it won't go down the way the stat cards did. It also auto-regenerates daily.</sub>
 
 ---
 
