@@ -10,6 +10,10 @@
 #     keeping the animation in sync with your latest contributions.
 #  5. The generated SVGs are pushed to an "output" branch and served
 #     from raw.githubusercontent.com — no third-party API involved.
+#  NOTE: crazy-max/ghaction-github-pages pushes the *contents* of the
+#  build_dir to the root of the output branch — so the files end up at
+#  output/latveria-snake.svg, NOT output/dist/latveria-snake.svg. The
+#  README's raw.githubusercontent.com URLs must match this (no /dist/).
 # ============================================================
 
 name: generate animation
