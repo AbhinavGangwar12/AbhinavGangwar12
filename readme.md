@@ -176,9 +176,9 @@ kinematics for robust, efficient sign generation. Research paper in progress.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhinavGangwar12/AbhinavGangwar12/output/dist/latveria-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhinavGangwar12/AbhinavGangwar12/output/dist/latveria-snake.svg" />
-  <img alt="A gold serpent devouring Abhinav's contribution grid" src="https://raw.githubusercontent.com/AbhinavGangwar12/AbhinavGangwar12/output/dist/latveria-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhinavGangwar12/AbhinavGangwar12/output/latveria-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhinavGangwar12/AbhinavGangwar12/output/latveria-snake.svg" />
+  <img alt="A gold serpent devouring Abhinav's contribution grid" src="https://raw.githubusercontent.com/AbhinavGangwar12/AbhinavGangwar12/output/latveria-snake.svg" width="100%"/>
 </picture>
 
 </div>
