@@ -183,7 +183,8 @@ kinematics for robust, efficient sign generation. Research paper in progress.
 
 </div>
 
-<sub>⚙️ One-time setup needed — add <code>snake-workflow.yml</code> (provided alongside this file) to <code>.github/workflows/</code> in your <b>AbhinavGangwar12/AbhinavGangwar12</b> profile repo, run it once from the Actions tab, and this animation is generated and served entirely from <code>raw.githubusercontent.com</code> — GitHub's own domain, not a third-party Vercel API — so it won't go down the way the stat cards did. It also auto-regenerates daily.</sub>
+<!-- <sub>⚙️ One-time setup needed — add <code>snake-workflow.yml</code> (provided alongside this file) to <code>.github/workflows/</code> in your <b>AbhinavGangwar12/AbhinavGangwar12</b> profile repo, run it once from the Actions tab, and this animation is generated and served entirely from <code>raw.githubusercontent.com</code> — GitHub's own domain, not a third-party Vercel API — so it won't go down the way the stat cards did. It also auto-regenerates daily.</sub> -->
+
 
 ---
 
